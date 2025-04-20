@@ -1,2 +1,2 @@
-# lokalaviser_ostfold
-Fetches updates from local newspapers in Østfold, Norway. 
+# Local news
+Fetches updates from local newspapers in Østfold, Norway and sends to Slack channel. 
