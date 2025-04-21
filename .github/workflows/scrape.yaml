@@ -25,7 +25,7 @@ jobs:
             pip install -r requirements.txt
           fi
 
-      - name: Execute local:news.py
+      - name: Execute local_news.py
         run: python local_news.py
         env:
           WEBHOOK_OSTFOLD: ${{ secrets.WEBHOOK_OSTFOLD }}
@@ -36,7 +36,9 @@ jobs:
       - name: Check for changes
         id: git_status
         run: |
-          git diff-index --quiet HEAD -- || echo "has_changes=true" >> $GITHUB_OUTPUT
+          if ! git diff --quiet; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
         shell: bash
 
       - name: Commit and push if changes exist
