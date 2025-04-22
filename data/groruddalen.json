@@ -1,6 +1,8 @@
 {
     "newspaper": "Groruddalen",
     "links": [
+        "https://groruddalen.no/nyheter/bjorkepollen-er-her/",
+        "https://groruddalen.no/nyheter/flere-fikk-spre-asken/",
         "https://groruddalen.no/nyheter/millehaugen-siktet-for-drap/",
         "https://groruddalen.no/nyheter/bussjafor-pa-jobb-blaste-rodt/",
         "https://groruddalen.no/nyheter/person-tatt-for-ulovlig-kjoring/",
@@ -18,8 +20,6 @@
         "https://groruddalen.no/kultur/samlet-hele-trosterud-til-fest/",
         "https://groruddalen.no/kultur/vellykket-loppemarked-for-lindeberg-kun-en-lordag-som-har-vaert-bedre/",
         "https://groruddalen.no/nyheter/presiserer-etter-hoybraten-stormen/",
-        "https://groruddalen.no/sport/grorud-knuste-honefoss/",
-        "https://groruddalen.no/kultur/hvem-har-stjalet-maskoten-til-grorud-il/",
-        "https://groruddalen.no/kultur/island-norge-og-tyskland-i-skjonn-kombinasjon/"
+        "https://groruddalen.no/sport/grorud-knuste-honefoss/"
     ]
 }
