@@ -1,6 +1,8 @@
 {
     "newspaper": "Groruddalen",
     "links": [
+        "https://groruddalen.no/nyheter/slik-markeres-1-mai-i-groruddalen-og-resten-av-byen/",
+        "https://groruddalen.no/kultur/allsang-historie-og-hap-feirer-80-ar-med-fred-i-stovner-kirke/",
         "https://groruddalen.no/nyheter/stovner-sk-far-over-en-million-fra-regjeringen-gar-til-dem-som-trenger-det-mest/",
         "https://groruddalen.no/nyheter/drommen-om-tveita-bibliotek-lever/",
         "https://groruddalen.no/kultur/pensjonist-ble-ranet-mens-hen-ventet-pa-bussen/",
@@ -18,8 +20,6 @@
         "https://groruddalen.no/nyheter/starter-underskriftskampanje-for-a-fa-nye-verdensparken-skole-likevel/",
         "https://groruddalen.no/sport/groruddalens-store-handballhelg-dette-er-var-greie/",
         "https://groruddalen.no/nyheter/loppemarked-og-auksjon-skapte-liv/",
-        "https://groruddalen.no/groruddalsdebatt/kampen-fortsetter-2/",
-        "https://groruddalen.no/sport/surt-selvmal-spolerte-grei-festen/",
-        "https://groruddalen.no/naering/na-blir-det-kortere-gratisparkering-pa-tveita/"
+        "https://groruddalen.no/groruddalsdebatt/kampen-fortsetter-2/"
     ]
 }
