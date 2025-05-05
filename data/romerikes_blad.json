@@ -1,6 +1,8 @@
 {
     "newspaper": "Romerikes Blad",
     "links": [
+        "https://www.rb.no/bli-med-pa-innsiden-av-russebussen-momster/v/5-43-2468993",
+        "https://www.rb.no/sykehustabben-snudde-livet-pa-hodet-jeg-er-utslitt/f/5-43-2468580",
         "https://www.rb.no/hjalp-over-1-200-pasienter-tilbake-i-jobb-mange-er-fortvilte/s/5-43-2468618",
         "https://www.rb.no/rima-iraki-mener-folk-klager-for-mye-pa-russen-kanskje-vi-skulle-vart-litt-rausere/o/5-43-2468763",
         "https://www.rb.no/tar-grep-etter-ulykken-i-lsk-hallen-ma-gjore-det-vi-kan-for-at-det-ikke-skjer-igjen/s/5-43-2465443",
@@ -13,8 +15,6 @@
         "https://www.rb.no/gutt-funnet-med-alvorlige-skader-utsatt-for-grov-vold-og-etterlatt-i-hjelpelos-tilstand/s/5-43-2468734",
         "https://www.rb.no/er-krf-pa-ytre-hoyre/o/5-43-2466679",
         "https://www.rb.no/hoyre-prioriterer-barnehager-og-skoler/o/5-43-2465107",
-        "https://www.rb.no/700-tonn-soppel-kastes-langs-veiene-hvert-ar/s/5-43-2465485",
-        "https://www.rb.no/det-burde-ikke-overraske-at-vi-trenger-bedre-arealforvaltning/o/5-43-2464405",
-        "https://www.rb.no/nedbemanning-for-skolene-i-lillestrom/o/5-43-2464972"
+        "https://www.rb.no/700-tonn-soppel-kastes-langs-veiene-hvert-ar/s/5-43-2465485"
     ]
 }
