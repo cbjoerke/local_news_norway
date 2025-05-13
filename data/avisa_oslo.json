@@ -1,6 +1,7 @@
 {
     "newspaper": "Avisa Oslo",
     "links": [
+        "https://www.ao.no/politiet-soker-etter-femaring-forsvunnet-fra-barnehagen/s/5-128-1050258",
         "https://www.ao.no/reklamen-pa-aker-brygge-far-folk-til-a-reagere/s/5-128-1049881",
         "https://www.ao.no/trafikkulykke-mellom-bil-og-motorsykkel/s/5-128-1050106",
         "https://www.ao.no/trafikkulykke-med-flere-involverte-kjoretoy-uavklart-skadeomfang/s/5-128-1050091",
@@ -14,7 +15,6 @@
         "https://www.ao.no/oslo-taxi-er-utsatt-for-et-dataangrep-flere-interne-systemer-koblet-ut/s/5-128-1049687",
         "https://www.ao.no/sven-nordins-hus-pa-kampen-solgt-etter-38-ar-vemodig-og-rart/s/5-128-1049716",
         "https://www.ao.no/store-trafikale-utfordringer-etter-ulykke/s/5-128-1049701",
-        "https://www.ao.no/brynjar-meling-raser-skam-dere-oslo/s/5-128-1049680",
-        "https://www.ao.no/politiet-rykket-ut-til-gr-nerlokka-observert-kniv/s/5-128-1049648"
+        "https://www.ao.no/brynjar-meling-raser-skam-dere-oslo/s/5-128-1049680"
     ]
 }
