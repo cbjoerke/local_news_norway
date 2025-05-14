@@ -1,6 +1,8 @@
 {
     "newspaper": "Avisa Oslo",
     "links": [
+        "https://www.ao.no/melding-om-sammenstot-mellom-bil-og-sykkel/s/5-128-1050495",
+        "https://www.ao.no/ruter-foreslar-a-bygge-om-en-rekke-holdeplasser-langs-ko-utsatt-strekning/s/5-128-1050484",
         "https://www.ao.no/voldshendelse-pa-gronland-pafort-et-risp-med-kniv/s/5-128-1050425",
         "https://www.ao.no/sammenstot-mellom-bil-og-mc-forer-er-oppegaende/s/5-128-1050422",
         "https://www.ao.no/vil-ha-bot-bonanza-kaos/s/5-128-1050410",
@@ -13,8 +15,6 @@
         "https://www.ao.no/rykket-ut-til-brann-pa-majorstuen/s/5-128-1050310",
         "https://www.ao.no/salt-sjokket-som-a-miste-oslo-street-food-eller-sjobadet-pa-sorenga/o/5-128-1050085",
         "https://www.ao.no/hakone-coffee-apner-pa-gr-nerlokka/s/5-128-1049759",
-        "https://www.ao.no/sa-bilen-komme-kjorende-plutselig-smalt-det-fikk-blodet-til-a-koke/s/5-128-1048140",
-        "https://www.ao.no/politiet-soker-etter-femaring-forsvunnet-fra-barnehagen/s/5-128-1050258",
-        "https://www.ao.no/reklamen-pa-aker-brygge-far-folk-til-a-reagere/s/5-128-1049881"
+        "https://www.ao.no/sa-bilen-komme-kjorende-plutselig-smalt-det-fikk-blodet-til-a-koke/s/5-128-1048140"
     ]
 }
