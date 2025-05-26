@@ -1,4 +1,4 @@
-from src.extract_links import rss_process
+from src.extract_links import rss_process, notify_slack
 from src.newspapers import news
 import os
 from dotenv import load_dotenv
@@ -17,7 +17,7 @@ for newspaper, value in news.items():
     except Exception as e:
         error = f"Feilmelding for {newspaper}: {e}"
         webhook = os.environ.get("WEBHOOK_ERROR")
-        #notify_slack(error, webhook)
+        notify_slack(error, webhook)
         print(error)
 
 print("[*] Ferdig med å sjekke lokalavisene.")
