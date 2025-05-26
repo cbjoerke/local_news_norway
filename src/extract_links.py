@@ -26,14 +26,12 @@ def check_updates(old_links, new_links):
     return links
 
 def notify_slack(links, county):
-    # if county == "Østfold":
-    #     webhook = os.environ.get("WEBHOOK_OSTFOLD")
+    if county == "Østfold":
+        webhook = os.environ.get("WEBHOOK_OSTFOLD")
     # if county == "Buskerud":
     #     webhook = os.environ.get("WEBHOOK_BUSKERUD")
     # if county == "Oslo og Akershus":
     #     webhook = os.environ.get("WEBHOOK_OSLO_AKERSHUS")
-    
-    webhook = os.environ.get("WEBHOOK_ERROR")
 
     for link in links:
         payload = {"text" : link}
