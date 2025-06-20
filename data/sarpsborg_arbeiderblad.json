@@ -1,6 +1,9 @@
 {
     "newspaper": "Sarpsborg Arbeiderblad",
     "links": [
+        "https://www.sa.no/pa-denne-dagen-20-juni/g/5-46-1837735",
+        "https://www.sa.no/fem-pa-gata-20-juni-1995/g/5-46-1837702",
+        "https://www.sa.no/siste-nytt-fra-trafikken/s/5-46-1839427",
         "https://www.sa.no/god-morgen-sarpsborg/s/5-46-1839164",
         "https://www.sa.no/politikerne-vil-ha-kontroll-og-hindre-at-kommunens-utgifter-til-bandyhall-loper-lopsk/s/5-46-1839219",
         "https://www.sa.no/overgangsvinduet-vil-trolig-bruke-belop-vi-ikke-har-gjort-tidligere/s/5-46-1836907",
@@ -12,9 +15,6 @@
         "https://www.sa.no/sarpsborg-08-samarbeider-med-halden-klubb/s/5-46-1838954",
         "https://www.sa.no/barn-ma-fa-delta-og-medvirke-til-forbedringstiltak-i-skjebergkilen/o/5-46-1838650",
         "https://www.sa.no/ostfold-trenger-bruer-na-staten-ma-vakne-opp/o/5-46-1838635",
-        "https://www.sa.no/massefylling-i-visterskogen/o/5-46-1839129",
-        "https://www.sa.no/hund-fanget-i-bilbrann-tatt-hand-om-av-ambulansen/s/5-46-1839358",
-        "https://www.sa.no/bli-med-pa-innsiden-av-borregaard-hovedgard-spoker-det-her/v/5-46-1839280",
-        "https://www.sa.no/slik-ser-suiten-ut/g/5-46-1839244"
+        "https://www.sa.no/massefylling-i-visterskogen/o/5-46-1839129"
     ]
 }
