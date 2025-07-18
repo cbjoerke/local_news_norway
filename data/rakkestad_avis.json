@@ -1,8 +1,10 @@
 {
     "newspaper": "Rakkestad Avis",
     "links": [
+        "https://www.r-a.no/bosetter-fem-mindrearige-flyktninger/s/5-41-568793",
         "https://www.r-a.no/rakkestad-dropper-ny-soppeldunk-anita-forklarer-hvorfor/s/5-41-568426",
         "https://www.r-a.no/se-sommerdag-fra-kolbjornviksjoen/v/5-41-568820",
+        "https://www.r-a.no/asbjorn-stusset-over-spesiell-flyaktivitet/s/5-55-2037611",
         "https://www.r-a.no/sola-lokket-frem-badegjester-til-kolbjornsviksjoen/s/5-41-568775",
         "https://www.r-a.no/se-bildene-fra-kolbjornsviksjoen/g/5-41-568746",
         "https://www.r-a.no/varmerekord-kan-ryke-i-dag-meldt-36-grader/s/5-41-568701",
@@ -13,8 +15,6 @@
         "https://www.r-a.no/torden-og-lyn-men-brannsjefen-tar-det-med-ro/s/5-41-568608",
         "https://www.r-a.no/hele-rakkestad-uten-strom/s/5-41-568632",
         "https://www.r-a.no/lynvarsel-for-rakkestad-folg-varet-direkte-her/s/5-41-568617",
-        "https://www.r-a.no/gratis-avis-for-deg-mellom-15-20-ar/v/5-41-567333",
-        "https://www.r-a.no/biogass-flott-visjon-men-mangler-realitetsorientering/o/5-41-568457",
-        "https://www.r-a.no/kan-bli-over-30-grader-torsdag/s/5-41-568502"
+        "https://www.r-a.no/gratis-avis-for-deg-mellom-15-20-ar/v/5-41-567333"
     ]
 }
