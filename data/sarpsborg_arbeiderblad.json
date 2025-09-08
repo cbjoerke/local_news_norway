@@ -1,6 +1,8 @@
 {
     "newspaper": "Sarpsborg Arbeiderblad",
     "links": [
+        "https://www.sa.no/siste-nytt-fra-radhuset/v/5-46-1880976",
+        "https://www.sa.no/reaksjoner-fra-hoyres-valgvake/v/5-46-1880970",
         "https://www.sa.no/vi-skal-ta-vare-pa-miljoet-og-samtidig-produsere-mer-av-den-maten-vi-konsumerer/o/5-46-1880664",
         "https://www.sa.no/kulturloggen-uke-37/f/5-46-1880798",
         "https://www.sa.no/valgstudio-2025/s/5-46-1880935",
@@ -13,8 +15,6 @@
         "https://www.sa.no/sykehuset-ostfold-driver-omdiskutert-behandling-na-er-den-godkjent/s/5-46-1880529",
         "https://www.sa.no/politiloggen-fra-helgen-og-uke-37/s/5-46-1880649",
         "https://www.sa.no/sportsloggen-37/f/5-46-1880610",
-        "https://www.sa.no/dette-blir-nytt-pa-valgkvelden/s/5-46-1880300",
-        "https://www.sa.no/pa-denne-dagen-8-september/g/5-46-1880565",
-        "https://www.sa.no/fem-pa-gata-8-september-1995/g/5-46-1880562"
+        "https://www.sa.no/dette-blir-nytt-pa-valgkvelden/s/5-46-1880300"
     ]
 }
